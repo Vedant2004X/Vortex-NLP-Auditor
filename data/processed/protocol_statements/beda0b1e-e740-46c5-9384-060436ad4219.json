@@ -1,0 +1,98 @@
+[
+  {
+    "statement_id": "81d6a9e3-4fa1-441d-95f7-c7f5a1bba281",
+    "section_number": null,
+    "section_title": null,
+    "text": "Clinical Evaluation Report",
+    "page_number": 1,
+    "self_citations": []
+  },
+  {
+    "statement_id": "6601b683-2b28-4c31-889e-8fc7c7f597cc",
+    "section_number": "1",
+    "section_title": "Purpose:",
+    "text": "In order to verify the clinical performance of the registered test, this clinical evaluation is conducted.",
+    "page_number": 1,
+    "self_citations": []
+  },
+  {
+    "statement_id": "35bece07-23f5-4ee8-91df-3a0edd4f94bb",
+    "section_number": "2",
+    "section_title": "Product information:",
+    "text": "COVID-19 Antigen Rapid Test Kit(Swab) was produced by Safecare Biotech(Hangzhou) Co.,Ltd., Lot\nnumber is COV20081001, valid until August,2022.",
+    "page_number": 1,
+    "self_citations": []
+  },
+  {
+    "statement_id": "c2022867-c54f-47b4-a736-ae50ad4f3a07",
+    "section_number": "3",
+    "section_title": "Sample requirement:",
+    "text": "Fresh samples were collected from CDC and validated by PCR.",
+    "page_number": 1,
+    "self_citations": []
+  },
+  {
+    "statement_id": "12e675ba-0654-421c-905c-e2ba6498e86e",
+    "section_number": "4",
+    "section_title": "Supporting equipment:",
+    "text": "PCR tests are performed on ABI7500.\nThe test-strips are manually operated and visually interpreted.",
+    "page_number": 1,
+    "self_citations": []
+  },
+  {
+    "statement_id": "7b6d02a0-a752-4c4e-b51f-b1cfdd2b24cd",
+    "section_number": "5",
+    "section_title": "Clinical evaluation:",
+    "text": "The test was preformed by Wei Lihua/Zhen CaiWen at R&D lab.",
+    "page_number": 1,
+    "self_citations": []
+  },
+  {
+    "statement_id": "386f782f-2756-4c3f-9114-ae83e8ea09f6",
+    "section_number": "6",
+    "section_title": "Statistical methods:",
+    "text": "Referencing reagent Test\nTotal\nPositive\nNegative\nResearch\nReagent\nPositive\nA\nB\nA+B\nNegative\nC\nD\nC+D\nTotal\nA+C\nB+D\nA+B+C+D\nPercent Positive Agreement=A/(A+C)*100%\nNegative Percent Agreement=D/(B+D)*100%",
+    "page_number": 1,
+    "self_citations": []
+  },
+  {
+    "statement_id": "0dff5130-7197-4f84-88c3-3d47281670b9",
+    "section_number": "7",
+    "section_title": "Evaluation indicators:",
+    "text": "The total PPA should be no less than 80%.\nThe total NPA should be no less than 90%.",
+    "page_number": 1,
+    "self_citations": []
+  },
+  {
+    "statement_id": "618e99a0-8ceb-4d50-9dc3-b881215374e4",
+    "section_number": "9",
+    "section_title": "Statistical results of the clinical evaluation",
+    "text": "Referencing Method (RT-PCR)\nTotal\nPositive\nNegative\nTest-strip\nPositive\n30\n1",
+    "page_number": 1,
+    "self_citations": []
+  },
+  {
+    "statement_id": "ea3e94f2-aa2d-42a1-aa57-adb8138bd9e3",
+    "section_number": "31",
+    "section_title": "Negative",
+    "text": "3\n52",
+    "page_number": 1,
+    "self_citations": []
+  },
+  {
+    "statement_id": "1c94f49e-778d-4047-beac-406bce14dede",
+    "section_number": "55",
+    "section_title": "Total",
+    "text": "33\n53",
+    "page_number": 1,
+    "self_citations": []
+  },
+  {
+    "statement_id": "c5eedf40-10b7-4a1d-b653-f5cc0c91cc01",
+    "section_number": "86",
+    "section_title": "Statistical results",
+    "text": "Project\nValue\nPercentage (95%confidence interval)\nRelative Sensitivity（%）\n30/33\n90.91% (75.67%～98.08%)\nRelative Specificity（%）\n52/53\n98.11% (89.93%～99.95%)\nPositive expectation Rate（%）\n30/31\n96.77% (83.30%～99.92%)\nNegative expected Rate（%）\n52/55\n94.55% (84.88%～98.86%)\nOverall Agreement（%）\n82/86\n95.35% (88.52%～98.72%)\n3) Kappa consistency test\nAccording to the literature [5.1], Calculate the Kappa value and standard error; test hypothesis is established for\nKappa: H0: k = 0, Kappa value comes from 0 population, H1: k > 0, Kappa value comes from non-0 population, α\n= 0.05.\nProject\nValue\nKappa Value\n0.9005, Good consistency.\nStandard Error Se(K)\n0.0485\n95%Confidence Interval\n0.8055～0.9956\nStandard Error Se0(K)\n0.108\nTest Value Z\nZ=8.3614, Probability value P=0.0000\nTest Result\nP<0.05,refuse H0 ，Kappa values come from\npopulations other than 0.\n4) Conclusion\nA side-by-side comparison was conducted using the research reagent and referencing reagent.\nCompare with RT-PCR:\nThe Relative Sensitivity is 90.91%, the Relative Specificity is 98.111%, the Overall Agreement is\n95.35%.\nIn summary, The study showed that there is a high coincidence rate between the test-strip and\nRT-PCR, and have the equivalence on the clinical usage.",
+    "page_number": 1,
+    "self_citations": []
+  }
+]
